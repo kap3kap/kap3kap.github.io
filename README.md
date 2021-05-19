@@ -1,3 +1,9 @@
-# kap3kap.github.io
 
-Web site at https://http://kap3.github.io/
+# Projects by Kai
+
+- [Kalaga](https://kap3kap.github.io/kalaga/) - a game inspired by Galaga
+
+---
+URL: https://kap3kap.github.io/
+
+
